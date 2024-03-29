@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "g3uCIK9fak+sJF+f0uoqVWD8jfVc2EtO2HIrz6JQGqOx9hbWACHd/B05vnG8xj61K5gIqUkYHOC/GM7bTXhD1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mohammed saif\\source\\repos\\SimpleDeploy\\SimpleDeploy\\SimpleDeploy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohammed saif\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.0\\microsoft.windowsdesktop.app.ref.8.0.0.nupkg.sha512",
+    "C:\\Users\\mohammed saif\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.0\\microsoft.netcore.app.ref.8.0.0.nupkg.sha512",
+    "C:\\Users\\mohammed saif\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.0\\microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512",
+    "C:\\Users\\mohammed saif\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.0\\microsoft.netcore.app.host.win-x64.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
